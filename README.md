@@ -20,6 +20,3 @@
 ## 📫 Contact Me:
 - 💌 [Email Me](ahmed.mahdaly86@gmail.com)  
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/ahmed-mahdaly/) 
-
-## 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadMahdaly&show_icons=true&theme=radical)
