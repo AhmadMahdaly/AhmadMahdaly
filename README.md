@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ahmad Mahdaly!
+# 👋 Hi, I'm Ahmad Mahmoud!
 
 ## 💻 About Me:
 - 💼 A student/software developer specializing in **Dart** and **Flutter**.
