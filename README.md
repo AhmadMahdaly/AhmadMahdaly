@@ -15,11 +15,11 @@
 ## 🌟 Featured Projects:
 - [YaMakan_App](https://play.google.com/store/apps/details?id=com.mahdaly.yamakanID): An app to search for places to go out in Egypt. 
 - [Mr_Coffee_app](https://github.com/AhmadMahdaly/Mr_Coffee_app): A unique coffee application.  
-- [Mobilia_App](https://github.com/AhmadMahdaly/Mobilia_App): An app for managing furniture.  
-
-## 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadMahdaly&show_icons=true&theme=radical)
+- [Mobilia_App](https://github.com/AhmadMahdaly/Mobilia_App): An app for managing furniture.
 
 ## 📫 Contact Me:
 - 💌 [Email Me](ahmed.mahdaly86@gmail.com)  
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/ahmed-mahdaly/) 
+
+## 📈 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadMahdaly&show_icons=true&theme=radical)
