@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Ahmad Mahdaly!
 
-<!--
-**AhmadMahdaly/AhmadMahdaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me:
+- 💼 A student/software developer specializing in **Dart** and **Flutter**.
+- 🎓 Passionate about learning new technologies and building innovative applications.
+- 🌍 Aspiring to work on projects that solve real-world problems.
+- 🔭 I’m currently working on mastering everything related to building the front end.
+- 🌱 I’m looking forward to developing and learning all the native languages ​​for Android and iOS.
 
-Here are some ideas to get you started:
+## 🛠️ Skills:
+- **Languages and Tools:**  Dart, Figma, Firebase, BloC
+- **Frameworks:** Flutter  
+- **Development Tools:** Git, Visual Studio Code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Featured Projects:
+- [YaMakan_App](https://play.google.com/store/apps/details?id=com.mahdaly.yamakanID): An app to search for places to go out in Egypt. 
+- [Mr_Coffee_app](https://github.com/AhmadMahdaly/Mr_Coffee_app): A unique coffee application.  
+- [Mobilia_App](https://github.com/AhmadMahdaly/Mobilia_App): An app for managing furniture.  
+
+## 📈 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadMahdaly&show_icons=true&theme=radical)
+
+## 📫 Contact Me:
+- 💌 [Email Me](ahmed.mahdaly86@gmail.com)  
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/ahmed-mahdaly/) 
