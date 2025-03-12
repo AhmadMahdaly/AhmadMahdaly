@@ -65,7 +65,30 @@ YaMakan helps you discover the best places to go out based on your location or i
 - 🎨 **mobkit_dashed_border** - Dashed border widgets.  
 - 🧐 **very_good_analysis** - Code quality checks.  
 - 🔢 **flutter_verification_code** - OTP input.
-  
+
+## [Focus tracker](https://github.com/AhmadMahdaly/Focus_tracker): A productivity app that helps users manage their time efficiently using the Pomodoro technique. Stay focused, track your sessions, and boost your productivity! ⏳✅
+### 🛠️ Technologies
+- 🏹 **Dart** - Primary programming language.  
+- 📱 **Flutter** - UI framework for cross-platform apps.  
+
+#### 📦 Packages Used:
+- 💾 **shared_preferences** - Local storage.  
+- 🗃️ **hive & hive_flutter** - NoSQL database for Flutter.  
+- 📂 **path_provider** - File storage paths.  
+- 📊 **fl_chart** - Beautiful charts & graphs.  
+- 🔢 **percent_indicator** - Circular & linear progress indicators.  
+- ⚙️ **permission_handler** - Manage app permissions.  
+- 🎵 **audioplayers** - Play audio files.  
+- 🌍 **easy_localization** - Multi-language support.  
+- ⏰ **timezone** - Handle different time zones.  
+- 🔔 **flutter_local_notifications** - Local notifications.  
+- 🚀 **android_alarm_manager_plus** - Schedule background tasks.  
+- 🏗 **flutter_foreground_task** - Run services in the foreground.  
+- ⚡ **flutter_bloc** - State management (BLoC).  
+- 📦 **provider** - Simple state management.  
+- 🔄 **build_runner & hive_generator** - Code generation.  
+- 🧐 **very_good_analysis** - Code quality checks.  
+
 ## [Mr_Coffee_app](https://github.com/AhmadMahdaly/Mr_Coffee_app): A unique coffee application.
 
 ## [Mobilia_App](https://github.com/AhmadMahdaly/Mobilia_App): An app for managing furniture.
