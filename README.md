@@ -13,7 +13,7 @@
 - **Development Tools:** Git, Visual Studio Code  
 
 ## 🌟 Featured Projects:
-- [YaMakan](https://github.com/AhmadMahdaly/Yamakan): An app to search for places to go out in Egypt.
+# [YaMakan](https://github.com/AhmadMahdaly/Yamakan): An app to search for places to go out in Egypt.
 <br> <!-- هذا يضيف سطر فارغ -->
 <br> <!-- هذا يضيف سطر فارغ -->
 [![Google Play](https://img.shields.io/badge/Download-Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.mahdaly.yamakanID)
@@ -26,15 +26,15 @@ YaMakan helps you discover the best places to go out based on your location or i
 ### 🛠️ Technologies
 - **Dart**: The primary programming language.
 - **Flutter**: For cross-platform interface development.
-<br> <!-- هذا يضيف سطر فارغ -->
-<br> <!-- هذا يضيف سطر فارغ -->
-- [Booklink](https://github.com/AhmadMahdaly/Booklink): A platform for exchanging books and communicating between readers.
+
+# [Booklink](https://github.com/AhmadMahdaly/Booklink): A platform for exchanging books and communicating between readers.
 <br> <!-- هذا يضيف سطر فارغ -->
 <br> <!-- هذا يضيف سطر فارغ -->
 [![Google Play](https://img.shields.io/badge/Download-Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.mahdaly.booklink)
 
-- [Mr_Coffee_app](https://github.com/AhmadMahdaly/Mr_Coffee_app): A unique coffee application.  
-- [Mobilia_App](https://github.com/AhmadMahdaly/Mobilia_App): An app for managing furniture.
+# [Mr_Coffee_app](https://github.com/AhmadMahdaly/Mr_Coffee_app): A unique coffee application.
+
+# [Mobilia_App](https://github.com/AhmadMahdaly/Mobilia_App): An app for managing furniture.
 
 ## 📫 Contact Me:
 - 💌 [Email Me](ahmed.mahdaly86@gmail.com)  
