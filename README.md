@@ -18,12 +18,54 @@
 ### 📋 Description
 YaMakan helps you discover the best places to go out based on your location or interests.
 ### 🛠️ Technologies
-- ![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white): The primary programming language.
-- **Flutter**: For cross-platform interface development.
+- 🏹 **Dart**: Primary programming language.  
+- 📱 **Flutter**: UI framework for cross-platform apps.  
+
+#### 📦 Packages Used:
+- 💾 **shared_preferences** - Local storage.  
+- ⚡ **provider** - State management.  
+- 🌐 **url_launcher** - Open external links.  
+- 🎨 **flutter_svg** - Render SVG images.  
+- 🖼️ **cached_network_image** - Image caching.  
+- 🔄 **flutter_spinkit** - Loading animations.  
+- 🌍 **easy_localization** - Multi-language support.  
+- 📏 **flutter_screenutil** - Responsive UI design.  
+- 🧐 **very_good_analysis** - Code quality checks.  
+- 📸 **carousel_slider** - Image sliders.  
+- 🎭 **animate_do** - Cool animations. 
 
 ## [Booklink](https://github.com/AhmadMahdaly/Booklink): A platform for exchanging books and communicating between readers.
 [![Google Play](https://img.shields.io/badge/Download-Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.mahdaly.booklink)
+### 🛠️ Technologies
+- 🏹 **Dart** - Primary programming language.  
+- 📱 **Flutter** - UI framework for cross-platform apps.  
 
+#### 📦 Packages Used:
+- 💾 **shared_preferences** - Local storage.  
+- ⚡ **flutter_bloc** - State management (BLoC).  
+- 🌐 **url_launcher** - Open external links.  
+- 🎨 **flutter_svg** - Render SVG images.  
+- 🖼️ **cached_network_image** - Image caching.  
+- 🔄 **flutter_spinkit** - Loading animations.  
+- 🌍 **easy_localization** - Multi-language support.  
+- 📏 **flutter_screenutil** - Responsive UI design.  
+- 🔔 **firebase_messaging** - Push notifications.  
+- 🛠 **flutter_local_notifications** - Local notifications.  
+- 🔑 **google_sign_in** - Google authentication.  
+- 📸 **image_picker** - Pick images from camera/gallery.  
+- 📂 **path_provider** - File storage paths.  
+- 🔍 **google_mlkit_text_recognition** - OCR (text recognition).  
+- 📡 **connectivity_plus** - Check network connectivity.  
+- 🔥 **supabase_flutter** - Open-source backend.  
+- 🚀 **http** - HTTP requests handling.  
+- 🎭 **animate_do** - Cool animations.  
+- 🖋️ **animated_text_kit** - Text animations.  
+- 📸 **carousel_slider** - Image sliders.  
+- 📜 **flutter_dotenv** - Environment variables.  
+- 🎨 **mobkit_dashed_border** - Dashed border widgets.  
+- 🧐 **very_good_analysis** - Code quality checks.  
+- 🔢 **flutter_verification_code** - OTP input.
+  
 ## [Mr_Coffee_app](https://github.com/AhmadMahdaly/Mr_Coffee_app): A unique coffee application.
 
 ## [Mobilia_App](https://github.com/AhmadMahdaly/Mobilia_App): An app for managing furniture.
