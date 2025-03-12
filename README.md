@@ -62,26 +62,11 @@
 >- 📱 **Flutter** - UI framework for cross-platform apps.  
 >
 >#### 📦 Packages Used:
->- 💾 **shared_preferences** - Local storage.  
->- 🗃️ **hive & hive_flutter** - NoSQL database for Flutter.  
->- 📂 **path_provider** - File storage paths.  
->- 📊 **fl_chart** - Beautiful charts & graphs.  
->- 🔢 **percent_indicator** - Circular & linear progress indicators.  
->- ⚙️ **permission_handler** - Manage app permissions.  
->- 🎵 **audioplayers** - Play audio files.  
->- 🌍 **easy_localization** - Multi-language support.  
->- ⏰ **timezone** - Handle different time zones.  
->- 🔔 **flutter_local_notifications** - Local notifications.  
->- 🚀 **android_alarm_manager_plus** - Schedule background tasks.  
->- 🏗 **flutter_foreground_task** - Run services in the foreground.  
->- ⚡ **flutter_bloc** - State management (BLoC).  
->- 📦 **provider** - Simple state management.  
->- 🔄 **build_runner & hive_generator** - Code generation.  
->- 🧐 **very_good_analysis** - Code quality checks.  
+>- 💾 **shared_preferences** - 🗃️ **hive & hive_flutter** - 📂 **path_provider** - 📊 **fl_chart** - 🔢 **percent_indicator** - ⚙️ **permission_handler** - 🎵 **audioplayers** - 🌍 **easy_localization** - ⏰ **timezone** - 🔔 **flutter_local_notifications** - 🚀 **android_alarm_manager_plus** - 🏗 **flutter_foreground_task** -  ⚡ **flutter_bloc** - 📦 **provider** - 🔄 **build_runner & hive_generator** - 🧐 **very_good_analysis**.
 
-## [Mr_Coffee_app](https://github.com/AhmadMahdaly/Mr_Coffee_app): A unique coffee application.
+>## [Mr_Coffee_app](https://github.com/AhmadMahdaly/Mr_Coffee_app): A unique coffee application.
 
-## [Mobilia_App](https://github.com/AhmadMahdaly/Mobilia_App): An app for managing furniture.
+>## [Mobilia_App](https://github.com/AhmadMahdaly/Mobilia_App): An app for managing furniture.
 
 ## 📫 Contact Me:
 - 💌 [Email Me](ahmed.mahdaly86@gmail.com)  
