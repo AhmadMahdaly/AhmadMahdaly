@@ -17,7 +17,17 @@
 <br> <!-- هذا يضيف سطر فارغ -->
 <br> <!-- هذا يضيف سطر فارغ -->
 [![Google Play](https://img.shields.io/badge/Download-Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.mahdaly.yamakanID)
-
+### 📋 Description
+YaMakan helps you discover the best places to go out based on your location or interests.
+### ✨ Features
+- Quick search for nearby places.
+- Filter results by type (restaurants, cafes, etc.).
+- Simple and attractive user interface.
+### 🛠️ Technologies
+- **Dart**: The primary programming language.
+- **Flutter**: For cross-platform interface development.
+<br> <!-- هذا يضيف سطر فارغ -->
+<br> <!-- هذا يضيف سطر فارغ -->
 - [Booklink](https://github.com/AhmadMahdaly/Booklink): A platform for exchanging books and communicating between readers.
 <br> <!-- هذا يضيف سطر فارغ -->
 <br> <!-- هذا يضيف سطر فارغ -->
