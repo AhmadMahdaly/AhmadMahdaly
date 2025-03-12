@@ -15,8 +15,8 @@
 ## 🌟 Featured Projects:
 - **YaMakan**: An app to search for places to go out in Egypt.
 <br>
-[![Google Play](https://img.shields.io/badge/Download-Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.mahdaly.yamakanID) - 
-    [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmadMahdaly/Yamakan)
+[![Google Play](https://img.shields.io/badge/Download-Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.mahdaly.yamakanID)
+[![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmadMahdaly/Yamakan)
 
 - [Booklink](https://play.google.com/store/apps/details?id=com.mahdaly.booklink): A platform for exchanging books and communicating between readers. 
 - [Mr_Coffee_app](https://github.com/AhmadMahdaly/Mr_Coffee_app): A unique coffee application.  
