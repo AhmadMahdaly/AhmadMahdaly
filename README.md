@@ -14,7 +14,7 @@
 
 ## 🌟 Featured Projects:
 - **YaMakan**: An app to search for places to go out in Egypt.
-<br>
+<br> <!-- هذا يضيف سطر فارغ -->
 [![Google Play](https://img.shields.io/badge/Download-Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.mahdaly.yamakanID)
 [![GitHub](https://img.shields.io/badge/View_on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmadMahdaly/Yamakan)
 
