@@ -18,7 +18,7 @@
 ### 📋 Description
 YaMakan helps you discover the best places to go out based on your location or interests.
 ### 🛠️ Technologies
-- [!(https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)]: The primary programming language.
+- ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white): The primary programming language.
 - **Flutter**: For cross-platform interface development.
 
 ## [Booklink](https://github.com/AhmadMahdaly/Booklink): A platform for exchanging books and communicating between readers.
