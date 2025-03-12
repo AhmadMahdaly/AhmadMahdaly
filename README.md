@@ -26,6 +26,8 @@
 
 >## [Booklink](https://github.com/AhmadMahdaly/Booklink): A platform for exchanging books and communicating between readers.
 >[![Google Play](https://img.shields.io/badge/Download-Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.mahdaly.booklink)
+>### Description
+>Booklink helps you discover and exchange books based on your interests and connect with other readers. 📚✨
 >### 🛠️ Technologies
 >- 🏹 **Dart** - Primary programming language.  
 >- 📱 **Flutter** - UI framework for cross-platform apps.  
@@ -56,7 +58,9 @@
 >- 🧐 **very_good_analysis** - Code quality checks.  
 >- 🔢 **flutter_verification_code** - OTP input.
 
->## [Focus tracker](https://github.com/AhmadMahdaly/Focus_tracker): A productivity app that helps users manage their time efficiently using the Pomodoro technique. Stay focused, track your sessions, and boost your productivity! ⏳✅
+>## [Focus tracker](https://github.com/AhmadMahdaly/Focus_tracker): A productivity app that helps users manage their time efficiently using the Pomodoro technique. Stay focused, track your sessions, and boost your productivity!
+>### Description
+>Focus Tracker helps you monitor your productivity, track your tasks, and stay focused on your goals. ⏳✅
 >### 🛠️ Technologies
 >- 🏹 **Dart** - Primary programming language.  
 >- 📱 **Flutter** - UI framework for cross-platform apps.  
