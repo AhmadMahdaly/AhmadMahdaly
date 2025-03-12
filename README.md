@@ -33,30 +33,7 @@
 >- 📱 **Flutter** - UI framework for cross-platform apps.  
 >
 >#### 📦 Packages Used:
->- 💾 **shared_preferences** - Local storage.  
->- ⚡ **flutter_bloc** - State management (BLoC).  
->- 🌐 **url_launcher** - Open external links.  
->- 🎨 **flutter_svg** - Render SVG images.  
->- 🖼️ **cached_network_image** - Image caching.  
->- 🔄 **flutter_spinkit** - Loading animations.  
->- 🌍 **easy_localization** - Multi-language support.  
->- 📏 **flutter_screenutil** - Responsive UI design.  
->- 🔔 **firebase_messaging** - Push notifications.  
->- 🛠 **flutter_local_notifications** - Local notifications.  
->- 🔑 **google_sign_in** - Google authentication.  
->- 📸 **image_picker** - Pick images from camera/gallery.  
->- 📂 **path_provider** - File storage paths.  
->- 🔍 **google_mlkit_text_recognition** - OCR (text recognition).  
->- 📡 **connectivity_plus** - Check network connectivity.  
->- 🔥 **supabase_flutter** - Open-source backend.  
->- 🚀 **http** - HTTP requests handling.  
->- 🎭 **animate_do** - Cool animations.  
->- 🖋️ **animated_text_kit** - Text animations.  
->- 📸 **carousel_slider** - Image sliders.  
->- 📜 **flutter_dotenv** - Environment variables.  
->- 🎨 **mobkit_dashed_border** - Dashed border widgets.  
->- 🧐 **very_good_analysis** - Code quality checks.  
->- 🔢 **flutter_verification_code** - OTP input.
+>- **shared_preferences** - **flutter_bloc** - **url_launcher** - **flutter_svg** - **cached_network_image** - **flutter_spinkit** - **easy_localization** - **flutter_screenutil** - **firebase_messaging** - **flutter_local_notifications** - **google_sign_in** - **image_picker** - **path_provider** - **google_mlkit_text_recognition** - **connectivity_plus** - **supabase_flutter** - **http** - **animate_do** - **animated_text_kit** - **carousel_slider** - **flutter_dotenv** - **mobkit_dashed_border** - **very_good_analysis** - **flutter_verification_code**.
 
 >## [Focus tracker](https://github.com/AhmadMahdaly/Focus_tracker): A productivity app that helps users manage their time efficiently using the Pomodoro technique. Stay focused, track your sessions, and boost your productivity!
 >### Description
