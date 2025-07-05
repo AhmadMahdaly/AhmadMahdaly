@@ -57,11 +57,3 @@
 ## 📫 Contact Me:
 - 💌 [Email Me](ahmed.mahdaly86@gmail.com)  
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/ahmed-mahdaly/) 
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
