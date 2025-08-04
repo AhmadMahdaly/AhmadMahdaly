@@ -49,10 +49,6 @@
 >- **shared_preferences** - **hive & hive_flutter** - **path_provider** - **fl_chart** - **percent_indicator** - **permission_handler** - **audioplayers** - **easy_localization** - **timezone** - **flutter_local_notifications** - **android_alarm_manager_plus** - **flutter_foreground_task** - **flutter_bloc** - **provider** - **build_runner & hive_generator** - **very_good_analysis**.
 
 
->## [Mr_Coffee_app](https://github.com/AhmadMahdaly/Mr_Coffee_app): A unique coffee application.
-
-
->## [Mobilia_App](https://github.com/AhmadMahdaly/Mobilia_App): An app for managing furniture.
 
 ## 📫 Contact Me:
 - 💌 [Email Me](ahmed.mahdaly86@gmail.com)  
