@@ -1,44 +1,110 @@
-# 👋 Hi, I'm Ahmad Mahmoud!
+# 👋 Hi, I'm Ahmed Mahmoud
 
-## 💻 About Me:
-- 💼 A software developer specializing in **Dart** and **Flutter**.
-- 🎓 Passionate about learning new technologies and building innovative applications.
-- 🌍 Aspiring to work on projects that solve real-world problems.
-- 🔭 I’m currently working on mastering everything related to building the front end.
-- 🌱 I’m looking forward to developing and learning all the native languages ​​for Android and iOS.
+## 🚀 Flutter Developer | Cross-Platform Specialist
 
-## 🛠️ Skills:
-- **Languages and Tools:**  Dart, Figma, Firebase, Supabase, BloC
-- **Frameworks:** Flutter  
-- **Development Tools:** Git, Visual Studio Code  
+I am a Flutter developer with strong hands-on experience building and deploying production-level applications across multiple domains including e-commerce, fintech, healthcare, education, and enterprise systems.
 
-## 🛠️ Technologies:
-- 🏹 **Dart** - Primary programming language.  
-- 📱 **Flutter** - UI framework for cross-platform apps.
+I focus on writing clean, scalable, and maintainable code while applying solid architectural principles.
 
-## 🌟 Projects:
+---
 
->## [YaMakan](https://github.com/AhmadMahdaly/Yamakan): An app to search for places to go out in Egypt.
->[![Google Play](https://img.shields.io/badge/Download-Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.mahdaly.yamakanID)
->### 📋 Description
->YaMakan helps you discover the best places to go out based on your location or interests.
->### 🛠️ Technologies
->- 🏹 **Dart**: Primary programming language.  
->- 📱 **Flutter**: UI framework for cross-platform apps.  
+## 🧠 About Me
 
+- 💼 Experienced in building real-world apps published on Google Play & App Store  
+- 🏗️ Strong background in Clean Architecture & scalable app structure  
+- 🔄 Experienced with real-time systems, multi-role platforms, and complex workflows  
+- 🧩 Problem solver with focus on performance and user experience  
 
->## [Booklink](https://github.com/AhmadMahdaly/Booklink): A platform for exchanging books and communicating between readers.
->[![Google Play](https://img.shields.io/badge/Download-Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.mahdaly.booklink)
->### Description
->Booklink helps you discover and exchange books based on your interests and connect with other readers. 📚✨
+---
 
+## 🛠️ Tech Stack
 
->## [Focus tracker](https://github.com/AhmadMahdaly/Focus_tracker): A productivity app that helps users manage their time efficiently using the Pomodoro technique. Stay focused, track your sessions, and boost your productivity!
->### Description
->Focus Tracker helps you monitor your productivity, track your tasks, and stay focused on your goals. ⏳✅
+### 📱 Mobile Development
+- Flutter (Android & iOS)
+- Flutter Desktop
 
+### 🧠 State Management
+- Bloc / Cubit
 
+### 🏗️ Architecture
+- Clean Architecture
+- Repository Pattern
 
-## 📫 Contact Me:
-- 💌 [Email Me](ahmed.mahdaly86@gmail.com)  
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/ahmed-mahdaly/) 
+### 🌐 Backend & APIs
+- REST APIs (Dio)
+- Supabase (Auth, Realtime, Edge Functions)
+- Firebase (FCM)
+
+### ⚙️ Advanced Features
+- Google Maps & Geolocation
+- Real-time systems (Pusher / Supabase Realtime)
+- Payment Integration (Paymob)
+- Offline-first systems
+- WebView integrations
+- Thermal POS Printers
+- Multi-role systems
+
+---
+
+## 📦 Featured Projects
+
+### 🛒 E-Commerce App
+- Full shopping experience (products, cart, orders, payments)
+- Order lifecycle management
+- Address & favorites system
+
+### 💳 POS Systems (Restaurant & Fuel Stations)
+- Invoice management & thermal printing
+- ZATCA tax integration
+- Offline-first architecture with sync
+
+### 🏥 Healthcare Applications
+- Lab results tracking with secure authentication
+- Hospital kiosk system with ticket printing
+
+### 📚 Education Platform (Full Stack)
+- Course marketplace & scheduling
+- Real-time chat with file sharing
+- Supabase backend & Edge Functions
+
+### 🚗 Ride & Delivery Platform
+- Real-time ride requests (Pusher)
+- Live tracking with Google Maps
+- Multi-role system (Driver, Customer, Admin)
+
+### 💰 Finance App
+- Local financial engine
+- Recurring transactions & analytics
+- Goal tracking & balance consistency
+
+---
+
+## 📊 What I Focus On
+
+- Writing clean, testable, and maintainable code  
+- Building scalable architectures for large applications  
+- Handling complex business logic and workflows  
+- Delivering production-ready applications  
+
+---
+
+## 📈 Currently Improving
+
+- Advanced system design & architecture  
+- Performance optimization  
+- Large-scale application patterns  
+- Deep understanding of Flutter internals  
+
+---
+
+## 📫 Contact Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-mahdaly/)
+- 📧 [Email Me](ahmed.mahdaly86@gmail.com)  
+- 🌍 [Portfolio](https://ahmadmahdaly.github.io/AhmedMahdaly.github.io/)
+
+---
+
+## ⚡ Fun Fact
+
+I don’t just build apps… I build complete systems 🚀
